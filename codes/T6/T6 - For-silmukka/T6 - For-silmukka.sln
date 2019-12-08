@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2047
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T6 - For-silmukka", "T6 - For-silmukka\T6 - For-silmukka.csproj", "{46523976-06A2-47E3-B07C-B88F86FA88E6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46523976-06A2-47E3-B07C-B88F86FA88E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46523976-06A2-47E3-B07C-B88F86FA88E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46523976-06A2-47E3-B07C-B88F86FA88E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46523976-06A2-47E3-B07C-B88F86FA88E6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F36C06BC-5A1D-4348-AFB8-6F9357ACD016}
+	EndGlobalSection
+EndGlobal
